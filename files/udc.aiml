@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+  <!-- Categoria para reconhecer a opção 1 - O que é autismo? -->
+  <category>
+    <pattern>1</pattern>
+    <template>
+      O autismo, ou Transtorno do Espectro Autista (TEA), é uma condição do neurodesenvolvimento que afeta a maneira como uma pessoa percebe o mundo e interage com ele. O TEA é caracterizado por uma série de desafios na comunicação social, comportamentos repetitivos e, em alguns casos, sensibilidades sensoriais. Vale lembrar que o autismo é um espectro, o que significa que as experiências podem variar muito de uma pessoa para outra.
+      <br/>
+      Quer saber mais? Escolha outra opção ou digite "sair" para encerrar:
+      <br/>
+      2. Características comuns do autismo.
+      <br/>
+      3. Dicas para interagir com pessoas autistas.
+      <br/>
+      4. Como apoiar alunos autistas na escola.
+      <br/>
+      5. Desafios comuns para pessoas autistas.
+      <br/>
+      6. O que fazer quando uma pessoa autista estiver em surto?
+      <br/>
+      7. Sair
+    </template>
+  </category>
+
+  <!-- Categoria para reconhecer a opção 2 - Características comuns do autismo -->
+  <category>
+    <pattern>2</pattern>
+    <template>
+      As características mais comuns do autismo podem incluir dificuldades na comunicação verbal e não verbal, como manter uma conversa ou interpretar expressões faciais e gestos. Além disso, é comum que pessoas autistas apresentem padrões de comportamento repetitivos, interesses restritos e dificuldades em lidar com mudanças. Algumas pessoas autistas também podem ter sensibilidades aumentadas ou reduzidas a estímulos sensoriais, como luzes fortes, sons ou texturas.
+      <br/>
+      Quer saber mais? Escolha outra opção ou digite "sair" para encerrar:
+      <br/>
+      1. O que é autismo?
+      <br/>
+      3. Dicas para interagir com pessoas autistas.
+      <br/>
+      4. Como apoiar alunos autistas na escola.
+      <br/>
+      5. Desafios comuns para pessoas autistas.
+      <br/>
+      6. O que fazer quando uma pessoa autista estiver em surto?
+      <br/>
+      7. Sair
+    </template>
+  </category>
+
+  <!-- Categoria para reconhecer a opção 3 - Dicas para interagir com pessoas autistas -->
+  <category>
+    <pattern>3</pattern>
+    <template>
+      Ao interagir com uma pessoa autista, é importante ser claro, direto e respeitoso. Algumas dicas úteis incluem:
+      <br/>
+      - Use uma linguagem simples e objetiva.
+      <br/>
+      - Dê tempo suficiente para que a pessoa processe a informação e responda.
+      <br/>
+      - Evite linguagem figurada, como metáforas, que podem ser difíceis de entender.
+      <br/>
+      - Respeite o espaço pessoal e esteja atento(a) a possíveis desconfortos sensoriais.
+      <br/>
+      Compreender que cada pessoa autista é única também é fundamental para construir uma boa interação.
+      <br/>
+      Quer saber mais? Escolha outra opção ou digite "sair" para encerrar:
+      <br/>
+      1. O que é autismo?
+      <br/>
+      2. Características comuns do autismo.
+      <br/>
+      4. Como apoiar alunos autistas na escola.
+      <br/>
+      5. Desafios comuns para pessoas autistas.
+      <br/>
+      6. O que fazer quando uma pessoa autista estiver em surto?
+      <br/>
+      7. Sair
+    </template>
+  </category>
+
+  <!-- Categoria para reconhecer a opção 4 - Como apoiar alunos autistas na escola -->
+  <category>
+    <pattern>4</pattern>
+    <template>
+      No ambiente escolar, é essencial criar estratégias inclusivas para apoiar alunos autistas. Aqui estão algumas sugestões:
+      <br/>
+      - Estabeleça uma rotina previsível e use suporte visual, como agendas ou pictogramas, para ajudar na compreensão das atividades.
+      <br/>
+      - Ofereça um espaço tranquilo para momentos de sobrecarga sensorial.
+      <br/>
+      - Seja paciente e adapte a comunicação, usando frases curtas e diretas.
+      <br/>
+      - Trabalhe em parceria com os pais e outros profissionais, como psicólogos e terapeutas, para criar um ambiente escolar que atenda às necessidades do aluno.
+      <br/>
+      Quer saber mais? Escolha outra opção ou digite "sair" para encerrar:
+      <br/>
+      1. O que é autismo?
+      <br/>
+      2. Características comuns do autismo.
+      <br/>
+      3. Dicas para interagir com pessoas autistas.
+      <br/>
+      5. Desafios comuns para pessoas autistas.
+      <br/>
+      6. O que fazer quando uma pessoa autista estiver em surto?
+      <br/>
+      7. Sair
+    </template>
+  </category>
+
+  <!-- Categoria para reconhecer a opção 5 - Desafios comuns para pessoas autistas -->
+  <category>
+    <pattern>5</pattern>
+    <template>
+      Pessoas autistas podem enfrentar desafios em várias áreas da vida. Alguns dos desafios mais comuns incluem:
+      <br/>
+      - Dificuldade em interpretar sinais sociais, como expressões faciais, tom de voz e gestos.
+      <br/>
+      - Sensibilidades sensoriais, que podem causar desconforto ou sobrecarga em ambientes barulhentos, com luzes fortes ou cheios de estímulos.
+      <br/>
+      - Rigidez de pensamento, o que pode dificultar lidar com mudanças na rotina.
+      <br/>
+      - Necessidade de suporte para desenvolver habilidades sociais e comunicativas.
+      <br/>
+      No entanto, é importante lembrar que, com suporte adequado, muitas dessas dificuldades podem ser gerenciadas.
+      <br/>
+      Quer saber mais? Escolha outra opção ou digite "sair" para encerrar:
+      <br/>
+      1. O que é autismo?
+      <br/>
+      2. Características comuns do autismo.
+      <br/>
+      3. Dicas para interagir com pessoas autistas.
+      <br/>
+      4. Como apoiar alunos autistas na escola.
+      <br/>
+      6. O que fazer quando uma pessoa autista estiver em surto?
+      <br/>
+      7. Sair
+    </template>
+  </category>
+
+  <!-- Categoria para reconhecer a opção 6 - O que fazer quando uma pessoa autista estiver em surto -->
+  <category>
+    <pattern>6</pattern>
+    <template>
+      Quando uma pessoa autista está em surto, ela pode estar sobrecarregada sensorialmente ou emocionalmente, o que pode resultar em comportamentos como gritos, choros, movimentos repetitivos, ou até agressividade. Aqui estão algumas orientações de como agir:
+      <br/>
+      - Mantenha a calma: A sua tranquilidade pode ajudar a acalmar a pessoa.
+      <br/>
+      - Reduza os estímulos: Tente afastar a pessoa de ambientes muito barulhentos, com luzes fortes ou cheios de gente.
+      <br/>
+      - Dê espaço: Evite tocar a pessoa sem pedir permissão, já que isso pode aumentar o desconforto.
+      <br/>
+      - Use comunicação simples e objetiva: Se precisar falar, use frases curtas e dê tempo para a pessoa processar a informação.
+      <br/>
+      - Respeite o tempo da pessoa: Não force a pessoa a se acalmar ou a seguir uma atividade. Deixe que ela se recupere no próprio tempo.
+      <br/>
+      - Caso necessário, procure suporte especializado: Em casos mais graves, é importante que a pessoa tenha acompanhamento de um profissional que conheça suas necessidades específicas.
+      <br/>
+      Quer saber mais? Escolha outra opção ou digite "sair" para encerrar:
+      <br/>
+      1. O que é autismo?
+      <br/>
+      2. Características comuns do autismo.
+      <br/>
+      3. Dicas para interagir com pessoas autistas.
+      <br/>
+      4. Como apoiar alunos autistas na escola.
+      <br/>
+      5. Desafios comuns para pessoas autistas.
+      <br/>
+      7. Sair
+    </template>
+  </category>
+
+  <!-- Categoria para reconhecer a opção 7 - Sair -->
+  <category>
+    <pattern>7</pattern>
+    <template>Obrigado por usar o chatbot. Se precisar de mais informações no futuro, estarei por aqui. Até logo!</template>
+  </category>
+
+  <!-- Categoria para reconhecer a palavra "sair" -->
+  <category>
+    <pattern>sair</pattern>
+    <template>Obrigado por usar o chatbot. Se precisar de mais informações no futuro, estarei por aqui. Até logo!</template>
+  </category>
+
+  <!-- Categoria de padrão geral para respostas não reconhecidas -->
+  <!--category>
+    <pattern>*</pattern>
+    <template>Desculpe, não entendi. Por favor, escolha uma das opções ou digite "sair" para encerrar.</template>
+  </category-->
+  
+  <category>
+    <pattern>*</pattern>
+    <template>
+      Olá! Seja bem-vindo(a)! Como posso te ajudar? Escolha uma das opções abaixo:
+      <br/>
+      1. O que é autismo?
+      <br/>
+      2. Características comuns do autismo.
+      <br/>
+      3. Dicas para interagir com pessoas autistas.
+      <br/>
+      4. Como apoiar alunos autistas na escola.
+      <br/>
+      5. Desafios comuns para pessoas autistas.
+      <br/>
+      6. O que fazer quando uma pessoa autista estiver em surto?
+      <br/>
+      7. Sair
+      <br/>
+      Digite o número da sua escolha ou "sair" para encerrar.
+    </template>
+  </category>
+
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
